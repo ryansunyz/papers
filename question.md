@@ -32,5 +32,6 @@ Matrix NMS
 CoordConv
 
 SPP
+spp polling
 
 L1.L2正则化
